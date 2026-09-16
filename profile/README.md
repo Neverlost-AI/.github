@@ -1,52 +1,75 @@
-# Neverlost-AI
+# Neverlost Systems
 
-Applied AI systems, workflow automation, and governed human-in-the-loop software.
+**Applied AI automation, workflow implementation, and governed software.**
 
-Neverlost Systems is exploring how important context can be preserved across fragmented workflows so people and teams can understand what happened, what matters now, and what should happen next without quietly transferring consequential judgment to the machine.
+I’m **Jeff Summerhays**, founder of Neverlost Systems. I build at the point between a real customer or operational problem and a working system: discovery, workflow mapping, implementation, debugging, validation, demos, documentation, and handoff.
 
-**Core principle:** `Preserve Before You Understand.`
+My current work spans **AI workflow automation, CRM implementation, full-stack applications, source-linked analysis, human-in-the-loop systems, and reusable Codex development methods**.
 
-## What we build
+> **Core principle:** Preserve Before You Understand.
 
-- **Source-linked analysis** — preserve where evidence came from and keep interpretation distinguishable from source material.
-- **Human-review workflows** — proposed findings, outputs, and next steps remain reviewable before they become accepted state.
-- **Workflow automation** — practical CRM, LLM, and cross-tool automations that reduce repetitive work while preserving clear handoffs.
-- **Reusable AI development methods** — Codex skills and governance patterns for bounded implementation, verification, review, and durable continuity.
+## Start here
 
-## Featured public work
-
-| Project | What it demonstrates |
+| Project | What it proves |
 | --- | --- |
-| [`neverlost-case-navigator`](https://github.com/Neverlost-AI/neverlost-case-navigator) | Next.js / TypeScript case-to-packet workflow with OpenAI Structured Outputs, source traceability, and human review. |
-| [`neverlost-v1`](https://github.com/Neverlost-AI/neverlost-v1) | Python-based source-linked evidence and timeline analysis for fragmented longitudinal records. |
-| [`Neverlost-full-human-pathway`](https://github.com/Neverlost-AI/Neverlost-full-human-pathway) | Governed cross-system workflow for coordinating evidence, responsibility, review boundaries, and next actions. |
-| [`Neverlost-capacity-aware-publishing`](https://github.com/Neverlost-AI/Neverlost-capacity-aware-publishing) | Source-bound generation, quality checks, human publication authority, and capacity-aware workflow design. |
-| [`ai-lead-qualification-n8n`](https://github.com/Neverlost-AI/ai-lead-qualification-n8n) | LLM lead classification in n8n with structured output, conditional routing, Google Sheets logging, and Gmail handoff. |
-| [`highlevel-crm-automation`](https://github.com/Neverlost-AI/highlevel-crm-automation) | GoHighLevel CRM lifecycle automation from New Lead → Qualified → Call Booked → Won. |
-| [`reusable-codex-skills`](https://github.com/Neverlost-AI/reusable-codex-skills) | Curated reusable Codex skills for governed development, review, intake, pathway planning, and capacity-aware output. |
+| **[AI Lead Qualification — n8n](https://github.com/Neverlost-AI/ai-lead-qualification-n8n)** | Live-verified n8n workflow using structured AI output, conditional routing, Google Sheets logging, and Gmail handoff. |
+| **[HighLevel CRM Automation](https://github.com/Neverlost-AI/highlevel-crm-automation)** | Live-tested GoHighLevel lead lifecycle from `New Lead → Qualified → Call Booked → Won`, with stage-driven tasks and email automation. |
+| **[Neverlost Case Navigator](https://github.com/Neverlost-AI/neverlost-case-navigator)** | Next.js + TypeScript + OpenAI Structured Outputs with deterministic validation, source traceability, explicit human review, tests, and reproducible demo paths. |
+| **[Reusable Codex Skills](https://github.com/Neverlost-AI/reusable-codex-skills)** | Reusable methods for governed development, intake, review, pathway planning, and capacity-aware output, with bounded validation evidence. |
 
-## Public sites
+## Deeper systems work
+
+### [Neverlost: The Full Human Pathway](https://github.com/Neverlost-AI/Neverlost-full-human-pathway)
+A governed Python workflow for organizing complex cross-system evidence and next actions without collapsing uncertainty or human authority. Includes synthetic validation cases, deterministic scoring, negative testing, regression tests, and reproducible demonstration tooling.
+
+### [Neverlost Capacity-Aware Publishing](https://github.com/Neverlost-AI/Neverlost-capacity-aware-publishing)
+A Python/FFmpeg publishing pipeline that locks controlled source, renders accessible media, validates custody and timing, records output hashes, and preserves human release authority. Recovery-Aware Mode adds bounded work planning and exact resume checkpoints.
+
+### [Neverlost V1](https://github.com/Neverlost-AI/neverlost-v1)
+A recovered Python evidence-analysis prototype that converts source material into source-linked chunks, timelines, evidence matrices, bottleneck candidates, hidden-state candidates, capacity windows, and review reports. The repository deliberately separates historical implementation evidence from later reconstruction.
+
+## Live public work
 
 ### [Neverlost Systems](https://neverlostsystems.com/)
+Public company and product site for the patient-advocacy and care-navigation direction, product family, demonstrations, and commercialization work.
 
-The current company site presents Neverlost's patient-advocacy and care-navigation direction, product family, public demonstrations, and customer-discovery focus.
-
-Repository: [`neverlost-systems-website`](https://github.com/Neverlost-AI/neverlost-systems-website)
+Repository: **[neverlost-systems-website](https://github.com/Neverlost-AI/neverlost-systems-website)**
 
 ### [The Modern Paradox](https://themodernparadox.com/)
+A live long-form publishing and audio platform with continuous HTML readers, 14 public recordings, accessible custom playback, read-along links, session handoff, responsive editorial design, and GA4 analytics.
 
-A public long-form publishing and audio experience for a five-part philosophical manuscript. Parts I and V are currently public, with continuous readers, section-level audio, read-along behavior, accessible playback controls, and session handoff between listening and reading.
+Repository: **[the-modern-paradox-website](https://github.com/Neverlost-AI/the-modern-paradox-website)**
 
-Repository: [`the-modern-paradox-website`](https://github.com/Neverlost-AI/the-modern-paradox-website)
+## What I work with
 
-## Technical range
+**AI & automation**  
+OpenAI Responses API · Structured Outputs · Codex · n8n · GoHighLevel · prompt/workflow design · JSON/Zod · conditional routing · human-review controls
 
-`OpenAI / Codex` · `TypeScript` · `JavaScript` · `React` · `Next.js` · `Vite` · `Python` · `Supabase` · `n8n` · `GoHighLevel` · `REST APIs` · `JSON / Zod` · `Git / GitHub` · `testing / validation` · `human-in-the-loop review`
+**Development**  
+TypeScript · JavaScript · Python · React · Next.js · Vite · Supabase · PostgreSQL · REST APIs · Streamlit · Git/GitHub
 
-## How the work is framed
+**Implementation & delivery**  
+Customer discovery · workflow mapping · requirements translation · CRM/pipeline design · debugging · testing · validation · technical demos · documentation · onboarding · handoff
 
-These repositories include a mix of working prototypes, public demonstrations, reusable methods, and active product development. Each repository documents its own verification boundary. Successful tests or demos are not presented as proof of production deployment, clinical accuracy, or authority beyond the scope that was actually exercised.
+## How I approach AI systems
 
-## Founder
+I’m interested in AI that is useful **because the surrounding system is reliable**, not because the model output sounds confident.
 
-**Jeff Summerhays** — Neverlost Systems
+Across these projects, recurring patterns include:
+
+- preserving source and state before interpretation;
+- using structured outputs and deterministic validation where possible;
+- keeping proposed AI output separate from accepted human state;
+- making uncertainty, provenance, and authority visible;
+- testing failure paths instead of demonstrating only the happy path;
+- keeping automation bounded to the work it is actually authorized to perform; and
+- documenting what was verified separately from what remains experimental.
+
+## Repository status language
+
+This organization includes live websites, live-verified automations, tested prototypes, historical recovery work, reusable skills, and private product development. Each repository states its own verification boundary so that **working demo, tested prototype, production deployment, and future concept are not treated as interchangeable claims**.
+
+---
+
+**Jeff Summerhays** · Founder, Neverlost Systems  
+[neverlostsystems.com](https://neverlostsystems.com/) · [themodernparadox.com](https://themodernparadox.com/)
